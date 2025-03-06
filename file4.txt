@@ -2,3 +2,5 @@ Hii
 hello
 good
 bad
+hate
+alone
